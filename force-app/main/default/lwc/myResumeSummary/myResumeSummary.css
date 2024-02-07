@@ -1,0 +1,13 @@
+.section_heading{
+    font-size: 1.25rem;
+    color: #030f34;
+}
+
+.summary_list li:before {
+    content: "\2724";
+    position:absolute;
+    left: 0cm;
+}
+.font16{
+    font-size: 1rem;
+}
